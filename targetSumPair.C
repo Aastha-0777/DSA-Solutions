@@ -11,7 +11,7 @@ Challenge 6: The Target Sum Pair
 
 #include <stdio.h>
 #define MAX 5
-
+// logic Function
 int findTargetSumPair(int arr[], int targetSum)
 {
 
