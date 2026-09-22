@@ -18,6 +18,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
