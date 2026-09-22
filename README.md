@@ -17,6 +17,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -32,4 +33,12 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
