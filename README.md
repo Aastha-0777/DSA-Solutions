@@ -11,3 +11,19 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 **Note:** The problem list below this line is auto-generated and kept up to date by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) whenever I submit a new solution on LeetCode.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
