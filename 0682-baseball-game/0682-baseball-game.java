@@ -1,80 +1,30 @@
 class Solution {
     public int calPoints(String[] operations) {
 
-        int scoreArr[] = new int[operations.length];
+        int[] scoreArr = new int[operations.length];
         int top = -1;
-        int sum = 0;
-
         for (String opr : operations) {
-
             switch (opr) {
                 case "+":
-                    int prevSum = scoreArr[top] + scoreArr[top - 1];
-                    // score.push(prevSum);
-                    if (top == scoreArr.length - 1) {
-
-                        break;
-
-                    } else {
-
-                        top++;
-                        scoreArr[top] = prevSum;
-
-                    }
-
+                    scoreArr[top + 1] = scoreArr[top] + scoreArr[top - 1];
+                    top++;
                     break;
-
                 case "D":
-                    int doublePrevRes = scoreArr[top] * 2;
-                    if (top == scoreArr.length - 1) {
-
-                        break;
-
-                    } else {
-
-                        top++;
-                        scoreArr[top] = doublePrevRes;
-
-                    }
+                    scoreArr[top + 1] = scoreArr[top] * 2;
+                    top++;
                     break;
-
                 case "C":
-
-                    if (top == -1) {
-
-                        break;
-
-                    } else {
-
-                        top--;
-
-                    }
-
+                    top--;
                     break;
-
                 default:
-                    if (top == scoreArr.length - 1) {
-
-                        break;
-
-                    } else {
-
-                        top++;
-                        scoreArr[top] = Integer.parseInt(opr);
-
-                    }
+                    top++;
+                    scoreArr[top] = Integer.parseInt(opr);
             }
-
         }
-
+        int sum = 0;
         for (int i = 0; i <= top; i++) {
-
             sum += scoreArr[i];
-            System.out.println(scoreArr[i] + " ");
-
         }
-
         return sum;
-
     }
 }
