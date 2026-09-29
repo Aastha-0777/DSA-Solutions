@@ -17,6 +17,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -24,10 +25,12 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
