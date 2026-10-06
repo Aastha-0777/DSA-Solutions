@@ -17,6 +17,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,4 +45,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
