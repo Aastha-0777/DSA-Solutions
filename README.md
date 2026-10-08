@@ -49,4 +49,12 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
