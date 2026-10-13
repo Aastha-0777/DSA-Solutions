@@ -28,6 +28,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
