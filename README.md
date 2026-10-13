@@ -37,6 +37,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Stack
 |  |
