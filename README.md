@@ -40,6 +40,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -67,4 +69,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
