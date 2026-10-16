@@ -22,6 +22,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -31,6 +32,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -73,6 +75,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,4 +88,16 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
