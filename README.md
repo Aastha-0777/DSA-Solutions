@@ -44,6 +44,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -60,6 +61,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
 ## Trie
