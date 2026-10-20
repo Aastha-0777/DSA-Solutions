@@ -84,6 +84,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
