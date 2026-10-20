@@ -22,6 +22,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0015-3sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
