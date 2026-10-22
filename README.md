@@ -69,11 +69,13 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
