@@ -3,19 +3,12 @@ class Solution {
         int alpCounters[] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            alpCounters[ch - 'a']++;
+            alpCounters[s.charAt(i) - 'a']++;
         }
 
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
-            if (alpCounters[ch - 'a'] == 1) {
-
+            if (alpCounters[s.charAt(i) - 'a'] == 1)
                 return i;
-
-            }
-
         }
 
         return -1;
