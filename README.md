@@ -66,6 +66,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +95,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -119,4 +121,9 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
