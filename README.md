@@ -54,6 +54,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -110,4 +111,12 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
