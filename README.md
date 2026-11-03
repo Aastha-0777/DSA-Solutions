@@ -47,6 +47,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
