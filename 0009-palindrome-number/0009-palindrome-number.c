@@ -4,7 +4,7 @@ bool isPalindrome(int x) {
         return false;
 
     int orgNo = x;
-    long rev = 0;
+    long long rev = 0;
 
     while (x != 0) {
         rev = (rev * 10) + (x % 10);
