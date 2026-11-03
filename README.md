@@ -50,6 +50,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0009-palindrome-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -161,4 +162,12 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
