@@ -52,6 +52,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0013-roman-to-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -59,6 +60,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -104,6 +106,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0227-basic-calculator-ii](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
