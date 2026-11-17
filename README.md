@@ -100,6 +100,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -176,6 +177,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
@@ -185,4 +187,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
