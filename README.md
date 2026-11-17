@@ -49,6 +49,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0007-reverse-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
@@ -69,6 +70,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0001-two-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -97,6 +99,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0058-length-of-last-word) |
