@@ -157,6 +157,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -164,17 +165,20 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
