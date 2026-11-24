@@ -51,6 +51,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0012-integer-to-roman](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0258-add-digits) |
@@ -93,6 +94,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
@@ -206,4 +208,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
