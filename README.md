@@ -27,6 +27,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0287-find-the-duplicate-number](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aastha-0777/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aastha-0777/DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -63,6 +64,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0225-implement-stack-using-queues](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0682-baseball-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -192,6 +195,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Dynamic Programming
 |  |
@@ -207,6 +211,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +220,8 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
