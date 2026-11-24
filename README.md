@@ -167,6 +167,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aastha-0777/DSA-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Dynamic Programming
 |  |
 | ------- |
