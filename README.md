@@ -166,6 +166,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -177,6 +178,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | ------- |
 | [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -194,6 +196,7 @@ I share weekly progress and breakdowns of individual problems on [LinkedIn](http
 | [0100-same-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aastha-0777/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
