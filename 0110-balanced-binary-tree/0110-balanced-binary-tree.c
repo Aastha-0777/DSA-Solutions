@@ -20,14 +20,10 @@ int checkHeight(struct TreeNode* root) {
     if (rightHeight == -1) {
         return rightHeight;
     } // end of if
-    return (abs(leftHeight - rightHeight) > 1) ? -1 : 1 + ((leftHeight) > (rightHeight) ? leftHeight : rightHeight);
+    if (leftHeight - rightHeight > 1 || rightHeight - leftHeight > 1)
+        return -1;
+
+    return (leftHeight > rightHeight ? leftHeight : rightHeight) + 1;
 }
 
-bool isBalanced(struct TreeNode* root) {
-
-    if (checkHeight(root) != -1) {
-        return true;
-    } else {
-        return false;
-    }
-}
+bool isBalanced(struct TreeNode* root) { return checkHeight(root) != -1; }
