@@ -1,7 +1,9 @@
 int removeDuplicates(int* nums, int numsSize) {
-    if (numsSize == 0)
-        return 0;
 
+    if (nums == NULL || numsSize <= 0) {
+        return 0;
+    }
+    
     int writer = 1;
 
     for (int reader = 1; reader < numsSize; reader++) {
